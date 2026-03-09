@@ -43,7 +43,7 @@ Unlock the power of tomorrow's trading tech today—these features propel you in
 ⭐ Star/fork the repo. Contributions welcome — especially for post-2026 Trading rule adaptations, new strategies, or market maker enhancements.
 
 Envision the edge you're building—where bots don't just trade, they anticipate the future!
-<p align="center">⭐⭐⭐</p>
+<p align="center">⭐⭐⭐⭐⭐</p>
 
 
 ---
