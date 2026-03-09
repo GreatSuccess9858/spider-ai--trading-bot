@@ -37,7 +37,7 @@ Unlock the power of tomorrow's trading tech today—these features propel you in
 
 ## 📞 Contact & Community
 
-- 📱 Telegram: [@spider_trade](https://t.me/spider_trade) — support, custom logic, updates  
+- 📱 Telegram: [@spider_trade](https://t.me/spidertrading100) — support, custom logic, updates  
 
 
 ⭐ Star/fork the repo. Contributions welcome — especially for post-2026 Trading rule adaptations, new strategies, or market maker enhancements.
