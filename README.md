@@ -14,7 +14,7 @@ A sophisticated AI-powered trading bot designed to **automate cryptocurrency** a
 
 Unlock the power of tomorrow's trading tech today—these features propel you into a world of automated alpha and edge-hunting precision.
 <p align="center">
-  <img width="700" height="414" alt="image" src="https://github.com/user-attachments/assets/839747c0-b643-46e5-97c5-0f126b4f7a50" />
+  <img width="700" height="414" alt="image" src="https://github.com/GreatSuccess9858/spider-ai--trading-bot/blob/main/assets/image1.png"/>
 </p>
 
 ⚡ AI-Powered Strategies: Uses machine learning to make informed trading decisions.
@@ -43,7 +43,7 @@ Unlock the power of tomorrow's trading tech today—these features propel you in
 ⭐ Star/fork the repo. Contributions welcome — especially for post-2026 Trading rule adaptations, new strategies, or market maker enhancements.
 
 Envision the edge you're building—where bots don't just trade, they anticipate the future!
-<p align="center">⭐⭐⭐</p>
+<p align="center">⭐⭐⭐⭐⭐</p>
 
 
 ---
