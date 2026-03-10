@@ -2,7 +2,7 @@
 
 Focus: copy trading, latency arbitrage, 5-min cycle sniping, **Synth-powered edge arbitrage**, market making, simulation, and low-latency execution under current rules (post-Feb 2026 updates).
 
-A sophisticated AI-powered trading bot designed to **automate cryptocurrency** and **stock market strategies**. This bot leverages machine learning algorithms, real-time market data, and technical indicators to make informed trading decisions, optimize risk management, and maximize returns. Ideal for traders and developers interested in **algorithmic trading**, **backtesting**, and **AI-driven market analysis**.
+A sophisticated AI-powered trading bot designed to **automate cryptocurrency** and **stock market strategies**.  This bot leverages machine learning algorithms, real-time market data, and technical indicators to make informed trading decisions, optimize risk management, and maximize returns. Ideal for traders and developers interested in **algorithmic trading**, **backtesting**, and **AI-driven market analysis**.
 
 >
 
